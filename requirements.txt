@@ -1,5 +1,3 @@
-#pip install -r requirements.txt
-
-pip install mlxtend
-pip install pandas
-pip install numpy
+mlxtend
+pandas
+numpy
