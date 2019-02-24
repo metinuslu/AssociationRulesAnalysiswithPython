@@ -2,14 +2,4 @@
 
 pip install mlxtend
 pip install pandas
-pip install Orange3
-
-
-
-#Install with Conda Package Manager
-#conda install --file requirements.txt
-#conda config --add channels conda-forge
-#conda install mlxtend --channel conda-forge
-
-pip show mlxtend
-pip show pandas
+pip install numpy
